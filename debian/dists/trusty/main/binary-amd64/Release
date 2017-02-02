@@ -1,6 +1,6 @@
 Archive: stable
 Component: main
 Origin: Batfish
-Label: xenial-stable
+Label: trusty-stable
 Architecture: amd64
-Description: Batfish xenial stable repository
+Description: Batfish trusty stable repository

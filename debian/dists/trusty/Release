@@ -1,0 +1,20 @@
+Origin: Batfish
+Label: trusty-stable
+Suite: stable
+Codename: trusty
+Date: Thu, 02 Feb 2017 22:52:21 UTC
+Architectures: amd64
+Components: main
+Description: Batfish trusty stable repository
+MD5Sum:
+ 3d2682ffb190f68b41032597e6a27b78 745 main/binary-amd64/Packages
+ d27b906b4b1b150c65777c710d2d00d5 486 main/binary-amd64/Packages.gz
+ e52066bdef3478671a9bc61bc3079adc 135 main/binary-amd64/Release
+SHA1:
+ 896940084d8604f0c5340ea0869fc0a67f00e9f6 745 main/binary-amd64/Packages
+ e60fdbdc6eb5f52d4e047830df601d87f4a0addc 486 main/binary-amd64/Packages.gz
+ 95d9476b6d5d352f3a4a342e99e4e4962e3de0d7 135 main/binary-amd64/Release
+SHA256:
+ 1278276c7bd976cad581ae3084f1f858be423de7f21254ddf5bcd9ad035d0b26 745 main/binary-amd64/Packages
+ 97fa992322b0233b886e4d6cd8824e2d1fdba9b2f10da5316243e2f288a1a9ba 486 main/binary-amd64/Packages.gz
+ 42e7eecbba4161c82e5cf09e44a1b01b5f27d7c0cb9ea903c9cbfae4ed3eb3ab 135 main/binary-amd64/Release

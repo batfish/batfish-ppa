@@ -1,8 +1,19 @@
+# xenial
 Origin: Batfish
-Label: Batfish APT repository
+Label: xenial-stable
 Suite: stable
 Codename: xenial
 Architectures: amd64
 Components: main
-Description: Batfish APT repository for quiet satisfaction
+Description: Batfish xenial stable repository
 SignWith: C4237ED5
+
+Origin: Batfish
+Label: trusty-stable
+Suite: stable
+Codename: trusty
+Architectures: amd64
+Components: main
+Description: Batfish trusty stable repository
+SignWith: C4237ED5
+
