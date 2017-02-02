@@ -1,0 +1,6 @@
+Label: Batfish APT repository
+Codename: xenial
+Architectures: amd64
+Components: main
+Description: Batfish APT repository for quiet satisfaction
+SignWith: C4237ED5
