@@ -1,4 +1,6 @@
+Archive: stable
 Component: main
+Origin: Batfish
 Label: Batfish APT repository
 Architecture: amd64
 Description: Batfish APT repository for quiet satisfaction

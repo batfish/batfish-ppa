@@ -1,4 +1,6 @@
+Origin: Batfish
 Label: Batfish APT repository
+Suite: stable
 Codename: xenial
 Architectures: amd64
 Components: main
