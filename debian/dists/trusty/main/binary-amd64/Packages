@@ -84,3 +84,25 @@ Description: network configuration analysis tool
  Though its individual modules have various applications,
  its primary purpose is to detect bugs in network configurations.
 
+Package: batfish-0.7
+Conflicts: batfish
+Replaces: batfish
+Provides: batfish
+Breaks: z3
+Version: 0.7.0~ubuntu14.04
+Architecture: amd64
+Maintainer: Ari Fogel <ari@intentionet.com>
+Priority: optional
+Section: web
+Filename: pool/main/b/batfish-0.7/batfish-0.7_0.7.0~ubuntu14.04_amd64.deb
+Size: 120492196
+SHA256: cbaaba624f938204b70a9a91570520fc64cd81d7b6d0060b1b8211798285e4b6
+SHA1: 061a0e19a9668553d1332eb0c097668efe2e84a3
+MD5sum: 4cc19f4a4ff6c8b1ffb2ae89298f5151
+Description: network configuration analysis tool
+ Batfish is a network configuration analysis tool developed 
+ jointly by researchers at University of California, Los Angeles;
+ University of Southern California; and Microsoft Research. 
+ Though its individual modules have various applications,
+ its primary purpose is to detect bugs in network configurations.
+
