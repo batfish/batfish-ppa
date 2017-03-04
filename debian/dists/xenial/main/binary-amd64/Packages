@@ -117,10 +117,10 @@ Maintainer: Ari Fogel <ari@intentionet.com>
 Priority: optional
 Section: web
 Filename: pool/main/b/batfish-0.8/batfish-0.8_0.8.0~ubuntu16.04_amd64.deb
-Size: 121519334
-SHA256: 44b7aa97fe60d645fb68fd4d635d9fda5cce22baec084182b095af231227e7a3
-SHA1: f3a2cadb7185d4b2d37b5fb2f18f888a8285c959
-MD5sum: 18282576de9e08ba4393f6588d29b400
+Size: 121520210
+SHA256: cca64f664ffde9f285ecf835dfc5afa95287b3191787ad6ba02e30eac0c29d27
+SHA1: 07e16b9d3176c41b6f8dd03b8186a159abf4d8a4
+MD5sum: c776843b191db528e5d37fd5f2865d36
 Description: network configuration analysis tool
  Batfish is a network configuration analysis tool developed 
  jointly by researchers at University of California, Los Angeles;
