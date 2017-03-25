@@ -25,16 +25,16 @@ Conflicts: batfish
 Replaces: batfish
 Provides: batfish
 Breaks: z3
-Version: 0.11.0~ubuntu14.04
+Version: 0.11.1~ubuntu14.04
 Architecture: amd64
 Maintainer: Ari Fogel <ari@intentionet.com>
 Priority: optional
 Section: web
-Filename: pool/main/b/batfish-0.11/batfish-0.11_0.11.0~ubuntu14.04_amd64.deb
-Size: 120594374
-SHA256: c5bab4cb0ec865e32915f1b00e966e155fb744af4fd9a86a8c2290029555ae75
-SHA1: 7ba2ca91637ba9bebd7a071b55194879c06cb92b
-MD5sum: 64b7cf1ae93785f3020343ff38e5e8a4
+Filename: pool/main/b/batfish-0.11/batfish-0.11_0.11.1~ubuntu14.04_amd64.deb
+Size: 120594720
+SHA256: a86ab403a134a56fd0c1069292075e7f989d32d99c8917482731a0c73adaefc7
+SHA1: 2c866f6115fa72ecec7619d7f1698130effd8d58
+MD5sum: d8850d77f3231ecab607d760bdc2b419
 Description: network configuration analysis tool
  Batfish is a network configuration analysis tool developed 
  jointly by researchers at University of California, Los Angeles;
