@@ -2,19 +2,19 @@ Origin: Batfish
 Label: trusty-stable
 Suite: stable
 Codename: trusty
-Date: Mon, 01 May 2017 04:58:52 UTC
+Date: Thu, 11 May 2017 07:43:25 UTC
 Architectures: amd64
 Components: main
 Description: Batfish trusty stable repository
 MD5Sum:
- 5e724b5772b6863ede4ca557effe8c12 13191 main/binary-amd64/Packages
- ca677582ec15afb223f7edad4b7595e5 2276 main/binary-amd64/Packages.gz
+ 36d3466c8b3694c0ab3cc0988089af7d 14019 main/binary-amd64/Packages
+ 14cdc9de803a605cdef9a9bd9e66a81c 2390 main/binary-amd64/Packages.gz
  e52066bdef3478671a9bc61bc3079adc 135 main/binary-amd64/Release
 SHA1:
- b39b9ee5a615cc7f53333d327b5f664c3df493c6 13191 main/binary-amd64/Packages
- e8e05f0b0b048d1f9a51f0eab9d856c566a84107 2276 main/binary-amd64/Packages.gz
+ d1c9e2ae0a3d21debc07482d7567bdb2d38bafcd 14019 main/binary-amd64/Packages
+ b2e83052359f3384c002fd40053cbf40532dfdb2 2390 main/binary-amd64/Packages.gz
  95d9476b6d5d352f3a4a342e99e4e4962e3de0d7 135 main/binary-amd64/Release
 SHA256:
- 2be04499d95d2ddd2a4db188332e6c76e8814db23e283bb2b785702bfcb09e72 13191 main/binary-amd64/Packages
- a4dff3d0e9595793c3984599668b8059a27a16ea2628f3731101ae077069a14d 2276 main/binary-amd64/Packages.gz
+ 4d07717b379110b190f74ae748c5c3c5739272320cdf36ceb74b73d3d86e5dcd 14019 main/binary-amd64/Packages
+ cc533a7e109d3b5eb8baede9c9051c2851b977f88788063d4ec88ea150a94cb0 2390 main/binary-amd64/Packages.gz
  42e7eecbba4161c82e5cf09e44a1b01b5f27d7c0cb9ea903c9cbfae4ed3eb3ab 135 main/binary-amd64/Release
