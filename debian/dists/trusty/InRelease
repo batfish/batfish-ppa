@@ -5,36 +5,36 @@ Origin: Batfish
 Label: trusty-stable
 Suite: stable
 Codename: trusty
-Date: Fri, 26 May 2017 07:12:47 UTC
+Date: Thu, 01 Jun 2017 03:42:55 UTC
 Architectures: amd64
 Components: main
 Description: Batfish trusty stable repository
 MD5Sum:
- 8d02fbf458a98e6c008da45b227356bc 15675 main/binary-amd64/Packages
- f77cd5fbca55b9b9db2629216e751ab0 2618 main/binary-amd64/Packages.gz
+ b67942ec9d6ba55a72928a959836d5fa 16503 main/binary-amd64/Packages
+ 65d2fc05e26fc3e993e99a18a9a9c09a 2735 main/binary-amd64/Packages.gz
  e52066bdef3478671a9bc61bc3079adc 135 main/binary-amd64/Release
 SHA1:
- d174077c5660843bc182735203c7d316f8b3ae60 15675 main/binary-amd64/Packages
- 8466362ce8f262728dd3182b6fcd0f9092a078de 2618 main/binary-amd64/Packages.gz
+ b15a12ddff6535f50c85726e81547cde4555eef9 16503 main/binary-amd64/Packages
+ 51bc6ea357cf90bec329132cc1f4e65c08cbf0eb 2735 main/binary-amd64/Packages.gz
  95d9476b6d5d352f3a4a342e99e4e4962e3de0d7 135 main/binary-amd64/Release
 SHA256:
- 7716936da10cf123618bcb863e2789e80fa3897a8a6735f222b1c4fdcb4dc4ca 15675 main/binary-amd64/Packages
- b60fd0d20571bcb4dd758c3d44042f3f958f76b385e91d7d4fe1295b19a88cca 2618 main/binary-amd64/Packages.gz
+ f7656cf204073985fa21d0fad8ed25593550f02fa3234ee7735ad5b120c229d7 16503 main/binary-amd64/Packages
+ a890ce49fc5bd65a5762cfd56cc3166365351b26f0b4324c03616a1b1d5a9d1a 2735 main/binary-amd64/Packages.gz
  42e7eecbba4161c82e5cf09e44a1b01b5f27d7c0cb9ea903c9cbfae4ed3eb3ab 135 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v2
 
-iQIcBAEBCAAGBQJZJ9VvAAoJEFzA+SfEI37VEkoP/0Z0wfgXaVUkKe+wCA14vU/V
-cCrrUjoi07Zsw/1Jdkch6rDIC0i7n7CFTBsp1wlmw1o7q+QKuC7PjdS6c+JF8ZbT
-vdumE+Zkf2k39yAscTRSG+uEDoeHLggIX+TAtyGTyGZiwgsCeX+gNwMzh0o8Oue/
-bAtIlGgf8x5bWROAXP2gR/Z/dwiTt2JYJnDEPkWGmc7tdcYOGdHCriHj47Q8SeuG
-7FMXcAjvBTJHIklk/vsjRjqz3GBoxlgp0RRCirVHpTqxDlDevFcK8CkDdDjaeVJI
-/+rGQKAVFCIqDIyPsByeLuRKL0s5LQCCe7MV34urwFTEYpttVZuv1+I8SRX5tJa4
-fp8xSUcpajysJenrgrP2cShCCWGdldXOgGMKOSqtpj6nd7OPV0TtMdFHHPCpk/6m
-SVTTk8DIz+yzgOSb1sp45T1Oj44GjcTkI1/vwaHP+yZWlVEq+ZeSc7OQ9gXt0dns
-9h/OYSOP+pzUHyrPCfzNGa/k3B5u89YNhto+N9w3PzuCFSYQ+ZeWdvUuUeiGV8Sh
-RVUaAWvF8A3XXQWLXcteRB19XpKybLJWVA4CVlENrowuDezJuHfNF89/c0ib8cEv
-MaM86rM/TEPx4mjtdP79p7mkPO6joPSKbS0goaS/llXlvBn1M/Rk3zBbsTNaa3Qe
-JG833T+udG4EJ0g0AHhU
-=/26a
+iQIcBAEBCAAGBQJZL40/AAoJEFzA+SfEI37VZRQQALuFaCkRh9s/16sNAVz7N2tw
+4cj37so52JsCiUfJW0HTJgZIINhHvqhKaBk9apWFo7nJJd3S7A8ebvZlWR6yZ5jI
+3BOlYNKeR04JaN2jRk00Uo+RHk41aqwLMrhrThsoyijOXNX9bhhuwPD1Xm+YQ2Ru
+yiZY4iWEY35NHGA8+QO/L+wgIkTDjOERmGN4qXpD7v+D8SGB/p2OI45i7eS5b3Pf
++14fZer7E8GDtPn71eKKhu4JLtEitH8eQkXvxeqlBUR/N/suR699kUCQpi6t0EMT
+3RWqVNlPC+ERPm9FtJiBn/edsks1w2H5iCcGsF9Od0g1c8t0i/VygfRuOhiA/s9Z
+vA5e1h39/Nteff0vrQHKegGvNyhzB97dV6SicmURtN2xQr0ktvyYlkMw/prXaxbJ
+J+NjelsnlyCNB1gmJ1MHrcQh9MibQTYAahiZc+cYAFmbM576/KQbowgbdac1UHOm
+lLUIs1RVTDMeXL4haFMs+u1cDvy+UDwvOgGXyZ8hLDW9eeoLnCaSDPKrmEsmB77d
+YhCBF4Aj41rGHleUw/HYgVFIdgRP7mQNjiuWvgFZ7ibsqcnvBM7bt4G273+oA6dA
+BzdcEHU52pJGPXd9iGqyJpeWwkh/u+PgXZss4BfnFqaRYRP+7Wz/vM7O9q257YQc
+0Az8ScIcWkYeU4dW6sIa
+=EiNn
 -----END PGP SIGNATURE-----
