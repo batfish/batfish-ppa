@@ -2,19 +2,19 @@ Origin: Batfish
 Label: xenial-stable
 Suite: stable
 Codename: xenial
-Date: Thu, 27 Jul 2017 06:35:26 UTC
+Date: Thu, 27 Jul 2017 08:21:43 UTC
 Architectures: amd64
 Components: main
 Description: Batfish xenial stable repository
 MD5Sum:
- 166935981cef34d69956de0f937ec3ab 22296 main/binary-amd64/Packages
- f26721198597905ab4e54d4399d92f4b 3536 main/binary-amd64/Packages.gz
+ ff84de46a9ce65ff40c79ed20d1d5ec7 22296 main/binary-amd64/Packages
+ c466ae330cef1a7564e7591ede1d6ac3 3541 main/binary-amd64/Packages.gz
  6531949f1545a53a7cdfc126564ebee6 135 main/binary-amd64/Release
 SHA1:
- 329b8913c17003e30f2c87674f1fd651f17160b0 22296 main/binary-amd64/Packages
- 5c52fe204ecf7ced736154a07dc8dffb36fe384c 3536 main/binary-amd64/Packages.gz
+ 51efd8c7223e4af485e74736d643efce4524c834 22296 main/binary-amd64/Packages
+ e5cfc40e912bd9ab4bf8b6d291f9c339c48c8450 3541 main/binary-amd64/Packages.gz
  6c6aa90600815772581b205617f00fa40f3264a9 135 main/binary-amd64/Release
 SHA256:
- 583064b69c0649f6720a91812eb6d797fccb978fbf3e300b1768266585ae41cd 22296 main/binary-amd64/Packages
- b338960d1980da151ff75567a9207ce167d54b8de988448ac06c0c7fc6719b67 3536 main/binary-amd64/Packages.gz
+ 44cfb5d265ec5f91255e39e7ceacaeafb9b2bdfddbcd9d3e2b3d0b3a613a65c1 22296 main/binary-amd64/Packages
+ 4e44d951e7e748e40ec3addc95a776b4bc50f7983c90aeafe3b217396e0b8641 3541 main/binary-amd64/Packages.gz
  7b58d860825049c7f1dd7ce10a430ce1fcd66a022f303bc70a275d8d37e1ef85 135 main/binary-amd64/Release
